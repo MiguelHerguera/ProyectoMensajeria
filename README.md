@@ -1,2 +1,2 @@
-# ProyectoMensajeria
+# Proyecto Mensajeria
 Proyecto_sistemas_distribuidos
